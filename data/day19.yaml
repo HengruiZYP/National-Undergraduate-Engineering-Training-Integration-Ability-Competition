@@ -1,0 +1,12 @@
+train: datasets/oneday/train.txt
+val: datasets/oneday/val.txt
+
+# number of classes
+nc: 5
+
+# class names
+names: ['yandi',
+'gandianchi',
+'yinliaoping',
+'shuiguo',
+'yilaguan']
